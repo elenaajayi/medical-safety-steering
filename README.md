@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project demonstrates how to surgically modify an LLM's behavior using activation steering—increasing medical safety refusals while avoiding dosage information leakage and maintaining helpfulness on benign queries.
+This project demonstrates how to surgically modify an LLM's behavior using activation steering thus increasing medical safety refusals while avoiding dosage information leakage and maintaining helpfulness on benign queries.
 
 ![Steering Analysis](plots/rate_vs_steering_strength.png)
 
